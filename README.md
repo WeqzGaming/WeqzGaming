@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WeqzGaming
-- 👀 I’m interested in gaming and my favorite passion is digital technology
-- 🌱 I’m currently learning digital technology
+- 👀 I’m interested in gaming and my favourite passion is digital technology
+- 🌱 I’m currently learning digital technology and am creating and learning FiveM scripts
 - 📫 How to reach me contact me via GitHub
 
 <!---
